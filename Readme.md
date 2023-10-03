@@ -9,7 +9,9 @@
 
 <br>
 <p align="center">
-  <img src="assets/images/Ipad.png" width="100%">
+  <a href="https://daianeporcena.github.io/beautySalon/">
+    <img src="assets/images/Ipad.png" width="100%">
+  </a>
 </p>
 
 ## 🚀 **Tecnologias**
