@@ -1,10 +1,16 @@
-# BeautySalon
+<h1 align="center">
+  beauty<span style="color: #6a8fb9;">salon</span>.
+</h1>
 
-<a>**Tecnologias**</a> | <a>**Projeto**</a>
+<p align="center" >
+  <a href="#-tecnologias" style="color: #6a8fb9;font-weight: bold;">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto" style="color: #6a8fb9;font-weight: bold;">Projeto</a>
+</p>
 
-<br><br>
-
-<img src="assets/images/Ipad.png">
+<br>
+<p align="center">
+  <img src="assets/images/Ipad.png" width="100%">
+</p>
 
 ## 🚀 **Tecnologias**
 
